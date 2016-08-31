@@ -1,0 +1,30 @@
+body{
+  text-align: center;
+    color: white;
+  background-color: #262626;
+  font-family:  "Helvetica", "Arial", sans-serif;;
+}
+
+a {
+
+  text-align: left;
+  color:white;
+
+  text-decoration: none;
+}
+a:hover {
+  text-align: left;
+
+  text-decoration: underline;
+}
+
+input{
+  color: #262626;
+  border: 0;
+  padding: 3px;
+}
+input:focus{
+
+    border:  0;
+    outline: none
+}
